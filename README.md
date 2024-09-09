@@ -1,7 +1,7 @@
 <DOCTYPE html>
 <html>
     <head>
-     <title>CSCE 190: Ryan Callahan</title>
+     CSCE 190: Ryan Callahan
     </head>
      <body>
         <h1>Ryan Callahan</h1>
