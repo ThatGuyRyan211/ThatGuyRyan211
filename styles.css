@@ -1,5 +1,5 @@
 body {
-    background-color: dimgray;
+    background-color: rgb(192, 192, 192);
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -23,20 +23,21 @@ h2 {
     padding: 20px 10px;
     background: white; /* pick a color */
     border-radius: 25%;
+    text-align: center;
 }
 
 .project img{
     width: 300px;
     height: 300px;
     margin: 10px;
-    border: 2px solid rgb(126, 14, 201); /* choose a color */
+    border: 2px solid rgb(23, 0, 151); /* choose a color */
     display: block;
     margin: auto;
 }
  
 a { /* change the appearance of ALL links */
     text-decoration: none;
-    color: purple;
+    color: rgb(23, 0, 151);
     text-align: center;
 }
     
@@ -50,7 +51,7 @@ a { /* change the appearance of ALL links */
     width: 150px;
     /* height: 200px; */
     border-radius: 25%;
-    border: 2px solid  rgb(126, 14, 201);    
+    border: 2px solid  rgb(23, 0, 151);    
 }
 
 .about p {
